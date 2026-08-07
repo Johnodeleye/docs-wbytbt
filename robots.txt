@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-hxws7e.salamcuan.cfd/sitemap.xml
